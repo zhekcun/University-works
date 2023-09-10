@@ -4,11 +4,11 @@
 # Оглавление
 - [📐✏️Графы](#графы)
   - [Shortest path problem](#shortest-path-problem)
-  - Eulerian path
-  - Breadth-first search
+  - [Eulerian path](#eulerian-path)
+  - [Breadth-first search](#breadth-first-search)
 - 🟨🔺Графический редактор фигур
-  - Graphical shape editor
-  - Graphic editor of figures. Grouping
+  - [Graphical shape editor](#graphical-shape-editor)
+  - [Graphic editor of figures. Grouping](#graphic-editor-of-figures-grouping)
  
 # 📐✏️Графы 
 Алгоритмы на графах на WF.
