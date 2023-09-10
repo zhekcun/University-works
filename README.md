@@ -1,3 +1,5 @@
+[<img src="https://img.shields.io/badge/message-telegram-blue">](https://t.me/Eliseevzhe)
+
 # 📖University-works
 Здесь представлены некоторые университетские работы
 
