@@ -4,7 +4,7 @@
 Здесь представлены некоторые университетские работы
 
 # Оглавление
-- [📐✏️Графы](#графы)
+- 📐✏️Графы
   - [Shortest path problem](#shortest-path-problem)
   - [Eulerian path](#eulerian-path)
   - [Breadth-first search](#breadth-first-search)
