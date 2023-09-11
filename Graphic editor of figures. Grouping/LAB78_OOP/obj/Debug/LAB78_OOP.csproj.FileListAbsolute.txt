@@ -1,0 +1,69 @@
+C:\Users\Sulem\source\repos\LAB78_OOP\LAB78_OOP\bin\Debug\LAB78_OOP.exe.config
+C:\Users\Sulem\source\repos\LAB78_OOP\LAB78_OOP\bin\Debug\LAB78_OOP.exe
+C:\Users\Sulem\source\repos\LAB78_OOP\LAB78_OOP\bin\Debug\LAB78_OOP.pdb
+C:\Users\Sulem\source\repos\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.csprojAssemblyReference.cache
+C:\Users\Sulem\source\repos\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.Form1.resources
+C:\Users\Sulem\source\repos\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.Properties.Resources.resources
+C:\Users\Sulem\source\repos\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.csproj.GenerateResource.cache
+C:\Users\Sulem\source\repos\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Sulem\source\repos\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.exe
+C:\Users\Sulem\source\repos\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.pdb
+C:\Users\Sulem\Desktop\LAB78_OOP\LAB78_OOP\bin\Debug\LAB78_OOP.exe.config
+C:\Users\Sulem\Desktop\LAB78_OOP\LAB78_OOP\bin\Debug\LAB78_OOP.exe
+C:\Users\Sulem\Desktop\LAB78_OOP\LAB78_OOP\bin\Debug\LAB78_OOP.pdb
+C:\Users\Sulem\Desktop\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.csprojAssemblyReference.cache
+C:\Users\Sulem\Desktop\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.Form1.resources
+C:\Users\Sulem\Desktop\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.Properties.Resources.resources
+C:\Users\Sulem\Desktop\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.csproj.GenerateResource.cache
+C:\Users\Sulem\Desktop\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Sulem\Desktop\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.exe
+C:\Users\Sulem\Desktop\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.pdb
+C:\Users\Хорошечно\Desktop\LAB78_OOP\LAB78_OOP\bin\Debug\LAB78_OOP.exe.config
+C:\Users\Хорошечно\Desktop\LAB78_OOP\LAB78_OOP\bin\Debug\LAB78_OOP.exe
+C:\Users\Хорошечно\Desktop\LAB78_OOP\LAB78_OOP\bin\Debug\LAB78_OOP.pdb
+C:\Users\Хорошечно\Desktop\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.csprojAssemblyReference.cache
+C:\Users\Хорошечно\Desktop\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.Form1.resources
+C:\Users\Хорошечно\Desktop\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.Properties.Resources.resources
+C:\Users\Хорошечно\Desktop\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.csproj.GenerateResource.cache
+C:\Users\Хорошечно\Desktop\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Хорошечно\Desktop\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.exe
+C:\Users\Хорошечно\Desktop\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.pdb
+C:\Users\timi0\Desktop\LAB78_OOP\LAB78_OOP\LAB78_OOP\bin\Debug\LAB78_OOP.exe.config
+C:\Users\timi0\Desktop\LAB78_OOP\LAB78_OOP\LAB78_OOP\bin\Debug\LAB78_OOP.exe
+C:\Users\timi0\Desktop\LAB78_OOP\LAB78_OOP\LAB78_OOP\bin\Debug\LAB78_OOP.pdb
+C:\Users\timi0\Desktop\LAB78_OOP\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.csprojAssemblyReference.cache
+C:\Users\timi0\Desktop\LAB78_OOP\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.Form1.resources
+C:\Users\timi0\Desktop\LAB78_OOP\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.Properties.Resources.resources
+C:\Users\timi0\Desktop\LAB78_OOP\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.csproj.GenerateResource.cache
+C:\Users\timi0\Desktop\LAB78_OOP\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.exe
+C:\Users\timi0\Desktop\LAB78_OOP\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.pdb
+C:\Users\Zver\Desktop\LAB78_OOP\LAB78_OOP\bin\Debug\LAB78_OOP.exe.config
+C:\Users\Zver\Desktop\LAB78_OOP\LAB78_OOP\bin\Debug\LAB78_OOP.exe
+C:\Users\Zver\Desktop\LAB78_OOP\LAB78_OOP\bin\Debug\LAB78_OOP.pdb
+C:\Users\Zver\Desktop\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.csprojAssemblyReference.cache
+C:\Users\Zver\Desktop\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.Form1.resources
+C:\Users\Zver\Desktop\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.Properties.Resources.resources
+C:\Users\Zver\Desktop\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.csproj.GenerateResource.cache
+C:\Users\Zver\Desktop\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.exe
+C:\Users\Zver\Desktop\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.pdb
+D:\2_kurs\ООП\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.csprojAssemblyReference.cache
+D:\2_kurs\ООП\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.Form1.resources
+D:\2_kurs\ООП\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.Properties.Resources.resources
+D:\2_kurs\ООП\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.csproj.GenerateResource.cache
+D:\2_kurs\ООП\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.csproj.CoreCompileInputs.cache
+D:\2_kurs\ООП\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.exe
+D:\2_kurs\ООП\LAB78_OOP\LAB78_OOP\obj\Debug\LAB78_OOP.pdb
+D:\2_kurs\ООП\LAB78_OOP\LAB78_OOP\bin\Debug\LAB78_OOP.exe.config
+D:\2_kurs\ООП\LAB78_OOP\LAB78_OOP\bin\Debug\LAB78_OOP.exe
+D:\2_kurs\ООП\LAB78_OOP\LAB78_OOP\bin\Debug\LAB78_OOP.pdb
+F:\GIT\Rep\Graphic editor of figures. Grouping\LAB78_OOP\bin\Debug\LAB78_OOP.exe.config
+F:\GIT\Rep\Graphic editor of figures. Grouping\LAB78_OOP\bin\Debug\LAB78_OOP.exe
+F:\GIT\Rep\Graphic editor of figures. Grouping\LAB78_OOP\bin\Debug\LAB78_OOP.pdb
+F:\GIT\Rep\Graphic editor of figures. Grouping\LAB78_OOP\obj\Debug\LAB78_OOP.csproj.AssemblyReference.cache
+F:\GIT\Rep\Graphic editor of figures. Grouping\LAB78_OOP\obj\Debug\LAB78_OOP.Form1.resources
+F:\GIT\Rep\Graphic editor of figures. Grouping\LAB78_OOP\obj\Debug\LAB78_OOP.Properties.Resources.resources
+F:\GIT\Rep\Graphic editor of figures. Grouping\LAB78_OOP\obj\Debug\LAB78_OOP.csproj.GenerateResource.cache
+F:\GIT\Rep\Graphic editor of figures. Grouping\LAB78_OOP\obj\Debug\LAB78_OOP.csproj.CoreCompileInputs.cache
+F:\GIT\Rep\Graphic editor of figures. Grouping\LAB78_OOP\obj\Debug\LAB78_OOP.exe
+F:\GIT\Rep\Graphic editor of figures. Grouping\LAB78_OOP\obj\Debug\LAB78_OOP.pdb

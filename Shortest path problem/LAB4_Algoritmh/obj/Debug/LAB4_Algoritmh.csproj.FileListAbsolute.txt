@@ -1,0 +1,166 @@
+C:\Users\Sulem\source\repos\LAB4_Algoritmh\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe.config
+C:\Users\Sulem\source\repos\LAB4_Algoritmh\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe
+C:\Users\Sulem\source\repos\LAB4_Algoritmh\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.pdb
+C:\Users\Sulem\source\repos\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csprojAssemblyReference.cache
+C:\Users\Sulem\source\repos\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Form1.resources
+C:\Users\Sulem\source\repos\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Properties.Resources.resources
+C:\Users\Sulem\source\repos\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.GenerateResource.cache
+C:\Users\Sulem\source\repos\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.CoreCompileInputs.cache
+C:\Users\Sulem\source\repos\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.exe
+C:\Users\Sulem\source\repos\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.pdb
+C:\Users\Sulem\OneDrive - ФГБОУ ВПО УГАТУ\Учеба\2 курс\Алгоримты\LAB4_Algoritmh\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe.config
+C:\Users\Sulem\OneDrive - ФГБОУ ВПО УГАТУ\Учеба\2 курс\Алгоримты\LAB4_Algoritmh\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe
+C:\Users\Sulem\OneDrive - ФГБОУ ВПО УГАТУ\Учеба\2 курс\Алгоримты\LAB4_Algoritmh\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.pdb
+C:\Users\Sulem\OneDrive - ФГБОУ ВПО УГАТУ\Учеба\2 курс\Алгоримты\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csprojAssemblyReference.cache
+C:\Users\Sulem\OneDrive - ФГБОУ ВПО УГАТУ\Учеба\2 курс\Алгоримты\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Form1.resources
+C:\Users\Sulem\OneDrive - ФГБОУ ВПО УГАТУ\Учеба\2 курс\Алгоримты\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Properties.Resources.resources
+C:\Users\Sulem\OneDrive - ФГБОУ ВПО УГАТУ\Учеба\2 курс\Алгоримты\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.GenerateResource.cache
+C:\Users\Sulem\OneDrive - ФГБОУ ВПО УГАТУ\Учеба\2 курс\Алгоримты\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.CoreCompileInputs.cache
+C:\Users\Sulem\OneDrive - ФГБОУ ВПО УГАТУ\Учеба\2 курс\Алгоримты\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.exe
+C:\Users\Sulem\OneDrive - ФГБОУ ВПО УГАТУ\Учеба\2 курс\Алгоримты\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.pdb
+C:\Users\Хорошечно\Desktop\Arkhiv_ZIP_-_WinRAR.zip\LAB4_Algoritmh\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe.config
+C:\Users\Хорошечно\Desktop\Arkhiv_ZIP_-_WinRAR.zip\LAB4_Algoritmh\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe
+C:\Users\Хорошечно\Desktop\Arkhiv_ZIP_-_WinRAR.zip\LAB4_Algoritmh\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.pdb
+C:\Users\Хорошечно\Desktop\Arkhiv_ZIP_-_WinRAR.zip\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csprojAssemblyReference.cache
+C:\Users\Хорошечно\Desktop\Arkhiv_ZIP_-_WinRAR.zip\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Form1.resources
+C:\Users\Хорошечно\Desktop\Arkhiv_ZIP_-_WinRAR.zip\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Properties.Resources.resources
+C:\Users\Хорошечно\Desktop\Arkhiv_ZIP_-_WinRAR.zip\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.GenerateResource.cache
+C:\Users\Хорошечно\Desktop\Arkhiv_ZIP_-_WinRAR.zip\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.CoreCompileInputs.cache
+C:\Users\Хорошечно\Desktop\Arkhiv_ZIP_-_WinRAR.zip\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.exe
+C:\Users\Хорошечно\Desktop\Arkhiv_ZIP_-_WinRAR.zip\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.pdb
+C:\Users\Хорошечно\Desktop\Алгоритмы\LAB4_Algoritmh\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe.config
+C:\Users\Хорошечно\Desktop\Алгоритмы\LAB4_Algoritmh\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe
+C:\Users\Хорошечно\Desktop\Алгоритмы\LAB4_Algoritmh\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.pdb
+C:\Users\Хорошечно\Desktop\Алгоритмы\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csprojAssemblyReference.cache
+C:\Users\Хорошечно\Desktop\Алгоритмы\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Form1.resources
+C:\Users\Хорошечно\Desktop\Алгоритмы\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Properties.Resources.resources
+C:\Users\Хорошечно\Desktop\Алгоритмы\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.GenerateResource.cache
+C:\Users\Хорошечно\Desktop\Алгоритмы\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.CoreCompileInputs.cache
+C:\Users\Хорошечно\Desktop\Алгоритмы\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.exe
+C:\Users\Хорошечно\Desktop\Алгоритмы\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.pdb
+C:\Users\timi0\Desktop\LAB4_Algoritmh\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe.config
+C:\Users\timi0\Desktop\LAB4_Algoritmh\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe
+C:\Users\timi0\Desktop\LAB4_Algoritmh\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.pdb
+C:\Users\timi0\Desktop\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csprojAssemblyReference.cache
+C:\Users\timi0\Desktop\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Form1.resources
+C:\Users\timi0\Desktop\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Properties.Resources.resources
+C:\Users\timi0\Desktop\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.GenerateResource.cache
+C:\Users\timi0\Desktop\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.exe
+C:\Users\timi0\Desktop\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.pdb
+C:\Users\Sulem\Desktop\LAB4_Algoritmh\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe.config
+C:\Users\Sulem\Desktop\LAB4_Algoritmh\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe
+C:\Users\Sulem\Desktop\LAB4_Algoritmh\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.pdb
+C:\Users\Sulem\Desktop\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csprojAssemblyReference.cache
+C:\Users\Sulem\Desktop\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Form1.resources
+C:\Users\Sulem\Desktop\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Properties.Resources.resources
+C:\Users\Sulem\Desktop\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.GenerateResource.cache
+C:\Users\Sulem\Desktop\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.CoreCompileInputs.cache
+C:\Users\Sulem\Desktop\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.exe
+C:\Users\Sulem\Desktop\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.pdb
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\LAB4_Algoritmh\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe.config
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\LAB4_Algoritmh\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\LAB4_Algoritmh\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.pdb
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csprojAssemblyReference.cache
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Form1.resources
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Properties.Resources.resources
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.GenerateResource.cache
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.exe
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\LAB4_Algoritmh\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.pdb
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\Alg_Laba_4\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe.config
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\Alg_Laba_4\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\Alg_Laba_4\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.pdb
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\Alg_Laba_4\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csprojAssemblyReference.cache
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\Alg_Laba_4\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Form1.resources
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\Alg_Laba_4\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Properties.Resources.resources
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\Alg_Laba_4\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.GenerateResource.cache
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\Alg_Laba_4\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.exe
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\Alg_Laba_4\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.pdb
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\РГР\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe.config
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\РГР\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\РГР\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.pdb
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\РГР\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csprojAssemblyReference.cache
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\РГР\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Form1.resources
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\РГР\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Properties.Resources.resources
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\РГР\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.GenerateResource.cache
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\РГР\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.exe
+C:\Users\timi0\Desktop\TimZak\УГАТУ\Алгоритмы и структуры данных\РГР\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.pdb
+C:\Users\Zver\Desktop\лабы алг\РГР\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe.config
+C:\Users\Zver\Desktop\лабы алг\РГР\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe
+C:\Users\Zver\Desktop\лабы алг\РГР\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.pdb
+C:\Users\Zver\Desktop\лабы алг\РГР\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csprojAssemblyReference.cache
+C:\Users\Zver\Desktop\лабы алг\РГР\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Form1.resources
+C:\Users\Zver\Desktop\лабы алг\РГР\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Properties.Resources.resources
+C:\Users\Zver\Desktop\лабы алг\РГР\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.GenerateResource.cache
+C:\Users\Zver\Desktop\лабы алг\РГР\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\лабы алг\РГР\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.exe
+C:\Users\Zver\Desktop\лабы алг\РГР\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.pdb
+D:\2_kurs\Алгоритмы\Лабы\Lab 4\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe.config
+D:\2_kurs\Алгоритмы\Лабы\Lab 4\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe
+D:\2_kurs\Алгоритмы\Лабы\Lab 4\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.pdb
+D:\2_kurs\Алгоритмы\Лабы\Lab 4\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csprojAssemblyReference.cache
+D:\2_kurs\Алгоритмы\Лабы\Lab 4\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Form1.resources
+D:\2_kurs\Алгоритмы\Лабы\Lab 4\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Properties.Resources.resources
+D:\2_kurs\Алгоритмы\Лабы\Lab 4\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.GenerateResource.cache
+D:\2_kurs\Алгоритмы\Лабы\Lab 4\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.CoreCompileInputs.cache
+D:\2_kurs\Алгоритмы\Лабы\Lab 4\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.exe
+D:\2_kurs\Алгоритмы\Лабы\Lab 4\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.pdb
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\Lab 4\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe.config
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\Lab 4\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\Lab 4\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.pdb
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\Lab 4\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csprojAssemblyReference.cache
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\Lab 4\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Form1.resources
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\Lab 4\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Properties.Resources.resources
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\Lab 4\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.GenerateResource.cache
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\Lab 4\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\Lab 4\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.exe
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\Lab 4\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.pdb
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\Lab 4 — копия\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe.config
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\Lab 4 — копия\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\Lab 4 — копия\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.pdb
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\Lab 4 — копия\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csprojAssemblyReference.cache
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\Lab 4 — копия\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Form1.resources
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\Lab 4 — копия\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Properties.Resources.resources
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\Lab 4 — копия\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.GenerateResource.cache
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\Lab 4 — копия\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\Lab 4 — копия\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.exe
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\Lab 4 — копия\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.pdb
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\RGR\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe.config
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\RGR\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\RGR\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.pdb
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\RGR\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csprojAssemblyReference.cache
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\RGR\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Form1.resources
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\RGR\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Properties.Resources.resources
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\RGR\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.GenerateResource.cache
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\RGR\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\RGR\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.exe
+C:\Users\Zver\Desktop\Лабы алгоритмы 1-5\RGR\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.pdb
+C:\Users\user\Desktop\RGR\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe.config
+C:\Users\user\Desktop\RGR\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe
+C:\Users\user\Desktop\RGR\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.pdb
+C:\Users\user\Desktop\RGR\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RGR\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Form1.resources
+C:\Users\user\Desktop\RGR\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Properties.Resources.resources
+C:\Users\user\Desktop\RGR\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.GenerateResource.cache
+C:\Users\user\Desktop\RGR\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RGR\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.exe
+C:\Users\user\Desktop\RGR\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.pdb
+F:\2_kurs\2_kurs\Алгоритмы\Лабы\RGR\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe.config
+F:\2_kurs\2_kurs\Алгоритмы\Лабы\RGR\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe
+F:\2_kurs\2_kurs\Алгоритмы\Лабы\RGR\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.pdb
+F:\2_kurs\2_kurs\Алгоритмы\Лабы\RGR\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.AssemblyReference.cache
+F:\2_kurs\2_kurs\Алгоритмы\Лабы\RGR\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Form1.resources
+F:\2_kurs\2_kurs\Алгоритмы\Лабы\RGR\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Properties.Resources.resources
+F:\2_kurs\2_kurs\Алгоритмы\Лабы\RGR\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.GenerateResource.cache
+F:\2_kurs\2_kurs\Алгоритмы\Лабы\RGR\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.CoreCompileInputs.cache
+F:\2_kurs\2_kurs\Алгоритмы\Лабы\RGR\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.exe
+F:\2_kurs\2_kurs\Алгоритмы\Лабы\RGR\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.pdb
+F:\GIT\Rep\Shortest path problem\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe.config
+F:\GIT\Rep\Shortest path problem\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.exe
+F:\GIT\Rep\Shortest path problem\LAB4_Algoritmh\bin\Debug\LAB4_Algoritmh.pdb
+F:\GIT\Rep\Shortest path problem\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.AssemblyReference.cache
+F:\GIT\Rep\Shortest path problem\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Form1.resources
+F:\GIT\Rep\Shortest path problem\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.Properties.Resources.resources
+F:\GIT\Rep\Shortest path problem\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.GenerateResource.cache
+F:\GIT\Rep\Shortest path problem\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.csproj.CoreCompileInputs.cache
+F:\GIT\Rep\Shortest path problem\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.exe
+F:\GIT\Rep\Shortest path problem\LAB4_Algoritmh\obj\Debug\LAB4_Algoritmh.pdb

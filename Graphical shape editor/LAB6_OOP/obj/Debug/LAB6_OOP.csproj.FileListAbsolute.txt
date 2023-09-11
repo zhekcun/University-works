@@ -1,0 +1,49 @@
+C:\Users\Sulem\source\repos\LAB6_OOP\LAB6_OOP\bin\Debug\LAB6_OOP.exe.config
+C:\Users\Sulem\source\repos\LAB6_OOP\LAB6_OOP\bin\Debug\LAB6_OOP.exe
+C:\Users\Sulem\source\repos\LAB6_OOP\LAB6_OOP\bin\Debug\LAB6_OOP.pdb
+C:\Users\Sulem\source\repos\LAB6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.csprojAssemblyReference.cache
+C:\Users\Sulem\source\repos\LAB6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.Form1.resources
+C:\Users\Sulem\source\repos\LAB6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.Properties.Resources.resources
+C:\Users\Sulem\source\repos\LAB6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.csproj.GenerateResource.cache
+C:\Users\Sulem\source\repos\LAB6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Sulem\source\repos\LAB6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.exe
+C:\Users\Sulem\source\repos\LAB6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.pdb
+C:\Users\timi0\Desktop\TimZak\УГАТУ\2 курс\ООП Лабы\LAB6_OOP\LAB6_OOP\bin\Debug\LAB6_OOP.exe.config
+C:\Users\timi0\Desktop\TimZak\УГАТУ\2 курс\ООП Лабы\LAB6_OOP\LAB6_OOP\bin\Debug\LAB6_OOP.exe
+C:\Users\timi0\Desktop\TimZak\УГАТУ\2 курс\ООП Лабы\LAB6_OOP\LAB6_OOP\bin\Debug\LAB6_OOP.pdb
+C:\Users\timi0\Desktop\TimZak\УГАТУ\2 курс\ООП Лабы\LAB6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.csprojAssemblyReference.cache
+C:\Users\timi0\Desktop\TimZak\УГАТУ\2 курс\ООП Лабы\LAB6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.Form1.resources
+C:\Users\timi0\Desktop\TimZak\УГАТУ\2 курс\ООП Лабы\LAB6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.Properties.Resources.resources
+C:\Users\timi0\Desktop\TimZak\УГАТУ\2 курс\ООП Лабы\LAB6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.csproj.GenerateResource.cache
+C:\Users\timi0\Desktop\TimZak\УГАТУ\2 курс\ООП Лабы\LAB6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.exe
+C:\Users\timi0\Desktop\TimZak\УГАТУ\2 курс\ООП Лабы\LAB6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.pdb
+C:\Users\Zver\Desktop\LAB6_OOP\LAB6_OOP\bin\Debug\LAB6_OOP.exe.config
+C:\Users\Zver\Desktop\LAB6_OOP\LAB6_OOP\bin\Debug\LAB6_OOP.exe
+C:\Users\Zver\Desktop\LAB6_OOP\LAB6_OOP\bin\Debug\LAB6_OOP.pdb
+C:\Users\Zver\Desktop\LAB6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.csprojAssemblyReference.cache
+C:\Users\Zver\Desktop\LAB6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.Form1.resources
+C:\Users\Zver\Desktop\LAB6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.Properties.Resources.resources
+C:\Users\Zver\Desktop\LAB6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.csproj.GenerateResource.cache
+C:\Users\Zver\Desktop\LAB6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\LAB6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.exe
+C:\Users\Zver\Desktop\LAB6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.pdb
+D:\2_kurs\ООП\LAB_6_OOP\LAB6_OOP\bin\Debug\LAB6_OOP.exe.config
+D:\2_kurs\ООП\LAB_6_OOP\LAB6_OOP\bin\Debug\LAB6_OOP.exe
+D:\2_kurs\ООП\LAB_6_OOP\LAB6_OOP\bin\Debug\LAB6_OOP.pdb
+D:\2_kurs\ООП\LAB_6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.csprojAssemblyReference.cache
+D:\2_kurs\ООП\LAB_6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.Form1.resources
+D:\2_kurs\ООП\LAB_6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.Properties.Resources.resources
+D:\2_kurs\ООП\LAB_6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.csproj.GenerateResource.cache
+D:\2_kurs\ООП\LAB_6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.csproj.CoreCompileInputs.cache
+D:\2_kurs\ООП\LAB_6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.exe
+D:\2_kurs\ООП\LAB_6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.pdb
+F:\GIT\Rep\LAB_6_OOP\LAB6_OOP\bin\Debug\LAB6_OOP.exe.config
+F:\GIT\Rep\LAB_6_OOP\LAB6_OOP\bin\Debug\LAB6_OOP.exe
+F:\GIT\Rep\LAB_6_OOP\LAB6_OOP\bin\Debug\LAB6_OOP.pdb
+F:\GIT\Rep\LAB_6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.csproj.AssemblyReference.cache
+F:\GIT\Rep\LAB_6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.Form1.resources
+F:\GIT\Rep\LAB_6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.Properties.Resources.resources
+F:\GIT\Rep\LAB_6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.csproj.GenerateResource.cache
+F:\GIT\Rep\LAB_6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.csproj.CoreCompileInputs.cache
+F:\GIT\Rep\LAB_6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.exe
+F:\GIT\Rep\LAB_6_OOP\LAB6_OOP\obj\Debug\LAB6_OOP.pdb
