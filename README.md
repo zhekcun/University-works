@@ -1,9 +1,9 @@
 [<img src="https://img.shields.io/badge/message-telegram-blue">](https://t.me/Eliseevzhe)
 
 # 📖University-works
-Здесь представлены некоторые университетские работы
+Здесь представлены некоторые университетские работы.
 
-# Оглавление
+# 🧾Оглавление
 - 📐✏️Графы
   - [Shortest path problem](#shortest-path-problem)
   - [Eulerian path](#eulerian-path)
